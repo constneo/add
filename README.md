@@ -1,5 +1,7 @@
 # Add
 
+Test push package with `npm publish`
+
 ## Usage
 
 ```shell

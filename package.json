@@ -1,0 +1,16 @@
+{
+  "name": "@constneo/add",
+  "version": "1.0.1",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node tests/add.js",
+    "test": "node examples/demo.js"
+  },
+  "author": "constneo",
+  "license": "MIT",
+  "description": "add(a,b)",
+  "dependencies": {
+    "@constneo/add": "^1.0.1"
+  }
+}
